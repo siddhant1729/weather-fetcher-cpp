@@ -1,5 +1,5 @@
-# weather-fetcher-cpp
-Here's a sample README.md for your Weather Program GitHub repository:
+<h1 align="center> # weather-fetcher-cpp</h1>
+
 
 markdown
 Copy
